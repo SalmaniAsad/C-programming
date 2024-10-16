@@ -1,4 +1,4 @@
-/* AIM: WAP to print if entered number is even or odd.
+/* AIM: WAP to find the sum of all Odd Numbers between numbers entered by the user.
 Name: Salmani Asad Anwarul
 UIN: 241A010
 DIV: A
