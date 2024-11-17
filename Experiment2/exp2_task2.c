@@ -45,3 +45,8 @@ for(i=start_num;i<=end_num;i++)
     printf("The sum of all Odd Numbers from %d and %d is %d",start_num,end_num,sum);
 return 0;
 }
+/*  OUTPUT: 
+    Enter Start Number:1
+    Enter End Number:10
+    The sum of all Odd Numbers from 1 and 10 is 25.
+*/
