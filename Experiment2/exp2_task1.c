@@ -26,3 +26,13 @@ scanf("%d",&num);
 }
   return 0;
 }
+
+/*  OUTPUT
+    EVEN:
+        Enter Number:10
+        10 is a Even Number.
+
+    ODD:
+        Enter Number:5
+        5 is a Odd Number.
+*/
