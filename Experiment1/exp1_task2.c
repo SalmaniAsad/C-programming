@@ -20,3 +20,19 @@ int main()
 
      return 0;
 }
+
+/*    OUTPUT
+ELIGIBLE FOR ADMISSION:
+        Enter physics marks:67
+        Enter Chemistry marks:68
+        Enter Mathematics marks:69
+        PCM avg= 68
+        Eligible for Admission.
+
+NOT ELIGIBLE FOR ADMISSION:
+        Enter physics marks:45
+        Enter Chemistry marks:46
+        Enter Mathematics marks:47
+        PCM avg= 46
+        Not Eligible for Admission.
+*/
