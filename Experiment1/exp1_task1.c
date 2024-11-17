@@ -19,9 +19,11 @@ int main()
 }
 
 
-/* Fullname         :Asad Salmani
-Age              :17
-Class            :FE
-DIV              :A
-UIN              :241A010
+/* OUTPUT:
+    
+    Fullname         :Asad Salmani
+    Age              :17
+    Class            :FE
+    DIV              :A
+    UIN              :241A010
     */
