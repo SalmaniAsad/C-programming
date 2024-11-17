@@ -1,3 +1,11 @@
+/* AIM: WAP to desin a menu driven calculator using switch and goto.
+Name: Salmani Asad Anwarul
+UIN: 241A010
+DIV: A
+DEPTT.: AI&DS
+ROLL-NO: 10
+*/
+
 #include <stdio.h>
 int main()
 {
