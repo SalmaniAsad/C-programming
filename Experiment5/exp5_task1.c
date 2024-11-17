@@ -1,4 +1,11 @@
-#include<stdio.h>
+/*
+Aim : WAP to find the factorial of a number using iterative functions.
+Name: Salmani Asad Anwarul
+UIN: 241A010
+DIV: A
+DEPTT.: AI&DS
+ROLL-NO: 10
+*/#include<stdio.h>
 int factorialIterative(int num);
 int factorialIterative(int num){
     int prod = 1;
