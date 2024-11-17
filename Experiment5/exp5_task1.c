@@ -28,3 +28,7 @@ int main () {
 
     return 0;
 }
+/*  OUTPUT:
+    Enter the Number:5
+    Factorial of 5 is 120
+*/
