@@ -72,3 +72,51 @@ repeat:
 
 return 0;
 }
+/*  OUTPUT:
+                                                  **calculator**
+
+         operations :
+                 +:addition
+                 -:subtraction
+                 *:multiplication
+                 /: division
+                 %:modulus
+Enter First Operand : 1
+Enter Second Operand : 2
+Enter Operation: +
+1.0 + 2.0 = 3.0
+
+ coutinue Y/N?: Y
+
+
+Enter First Operand : 2
+Enter Second Operand : 1
+Enter Operation: -
+2.0 - 1.0 = 1.0
+
+ coutinue Y/N?: Y
+
+
+Enter First Operand : 1
+Enter Second Operand : 2
+Enter Operation: *
+1.0 * 2.0 = 2.0
+
+ coutinue Y/N?: Y
+
+
+Enter First Operand : 1
+Enter Second Operand : 2
+Enter Operation: /
+1.0 / 2.0 = 0.5
+ coutinue Y/N?: Y
+
+
+ Enter First Operand : 3
+Enter Second Operand : 2
+Enter Operation: %
+3 % 2 = 0
+
+ coutinue Y/N?: N
+Thank you for using calculator.
+*/
