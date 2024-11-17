@@ -41,3 +41,8 @@ while (i<=end_num){
 
 
 }
+/*  OUTPUT:
+    Enter The Starting Number:1
+    Enter The Ending Number:10
+    Prime Numbers Between 1 and 10 is: 1 2 3 5 7
+*/
